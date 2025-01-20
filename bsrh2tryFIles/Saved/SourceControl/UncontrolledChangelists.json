@@ -5,7 +5,36 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Levels/test.umap"
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Levels/test.umap",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/FB_Idle.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/BP_GameModeBase.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/AnimSequences/AS_Run.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/AnimSequences/AS_Idle.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/AnimSequences/Player_Run.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/AnimSequences/Player_Idle.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/AS_Player.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/ABP_Player.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Player/BP_Player.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/Other/BP_GameModeBase.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Input/IMC_Player.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Input/IA_Jump.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/player_Idle1.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/player_Idle2.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/player_Idle3.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/player_Idle4.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle1.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle2.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle3.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle4.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/BP_Player.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/BP_AnimSource.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/BP_PlayerController.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle1_Sprite.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle2_Sprite.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle3_Sprite.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Assets/Sprites/Player/Idle/idle4_Sprite.uasset",
+				"D:/Epic Games/Unreal/UNRprj/bsrh2TRY/bsrh2tryFIles/Content/Blueprints/NewPaperZDAnimBP.uasset"
 			]
 		}
 	]
